@@ -1,0 +1,13 @@
+# node
+/node_modules
+
+# jsdoc
+/out
+
+# app related
+ibb-server.log
+requests.txt
+
+# Intellij
+.idea/
+*.iml
