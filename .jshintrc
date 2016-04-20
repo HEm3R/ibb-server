@@ -1,0 +1,20 @@
+{
+  // Environment
+  "node": true,
+  "mocha" : true,
+
+  // Enforcing
+  "esversion": 6,
+  "bitwise": true,
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq" : true,
+  "noarg": true,
+  "immed": true,
+  "quotmark": "single",
+  "undef" : true,
+  "unused": true,
+  "latedef": true,
+  "newcap": true,
+  "strict": true
+}
