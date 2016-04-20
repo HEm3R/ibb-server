@@ -1,0 +1,13 @@
+{
+  "express": {
+    "host": "localhost",
+    "port": "3000"
+  },
+  "fileStorage": {
+    "file": "requests.txt"
+  },
+  "redis": {
+    "host": "localhost",
+    "port": 6379
+  }
+}

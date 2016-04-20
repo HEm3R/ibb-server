@@ -1,0 +1,27 @@
+{
+  "name": "ibb-server",
+  "version": "1.0.0",
+  "description": "Task No. 1",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha --reporter spec test"
+  },
+  "author": "Vaclav Chalupa",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jsdoc": "^3.4.0",
+    "jshint": "^2.9.1",
+    "mocha": "^2.4.5",
+    "mockery": "^1.6.2",
+    "redis-mock": "^0.5.2",
+    "sinon": "^1.17.3"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "config": "^1.20.1",
+    "express": "^4.13.4",
+    "redis": "^2.6.0-1",
+    "winston": "^2.2.0"
+  }
+}
